@@ -42,5 +42,4 @@ const update=()=>{
   } else {
     next.disabled=false;
   }
-
 };
